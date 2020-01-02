@@ -15,11 +15,13 @@ Homework 4, Advanced Image Restoration and Quality Enhancement, EE, KAIST, Fall 
 	- Browse the working space in Matlab to the folder './source'
 
 	2.1. Extract Frames
+	
 		- In Command Window of Matlab, type: ExtractFrame
 		- Wait the process finished, it may take several hours
 		- When the process finished, you can see the extracted frame in the folders './data/60fps/videoN' where N = 1,2,3,4,5
 
 	2.2. Scene Separation
+	
 		- In Command Window of Matlab, type: SceneSeparation
 		- Wait the process finished, it may take several hours
 		- When the process finished, you can see the frames is distributed into difference scene in the folder './data/train/videoN' where N = 1,2,3,4,5
