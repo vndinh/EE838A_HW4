@@ -38,9 +38,9 @@ Homework 4, Advanced Image Restoration and Quality Enhancement, EE, KAIST, Fall 
 	- Type: python main.py --mode=valid
 	- Wait the validation process finished, it may take few minutes
 	- The interpolation frames are stored in the folder './report/valid_intp'
-	- - All logs are written in the file './logs/logs_test.txt'
+	- All logs are written in the file './logs/logs_test.txt'
 
-	# If you just want to see the interplolation frames without doing the above steps:
+	- If you just want to see the interplolation frames without doing the above steps:
 		- For L1 loss model:
 			+ All interplolation frames are saved in the folder './report/model_L1_loss/valid_intp'
 			+ All qualified criteria are written in the file './report/model_L1_loss/logs/logs_valid.txt'
